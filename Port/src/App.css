@@ -1,0 +1,17 @@
+.app {
+  background-color: #1b1f24;
+  height: 100vh;
+}
+.title {
+  color: #fff;
+  font-size: 50px;
+  line-height: 1.132em;
+  font-weight: 700;
+  background: linear-gradient(90deg, #bd10c3, #cd1590 29%, #d2177e 58%, #f3a3a3);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.sub-title{
+  
+}
